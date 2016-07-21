@@ -1,0 +1,11 @@
+Steps to execute the project
+
+1.Goto client folder
+socket_client\socket_client
+
+2.There you will find the mazefile.txt
+
+3. Edit that file to your maze file
+
+4.First two lines indicate no of rows and no of columns respectively and Then you have to
+give your maze and last two lines indicate two points

@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<stdafx.h>
+#include<windows.h>
+#include<fcntl.h>
+#include<string.h>
+#include<stdlib.h>
+#include<errno.h>
+#include<stdio.h>
+#include<conio.h>
